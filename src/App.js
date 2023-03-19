@@ -8,8 +8,6 @@ function App() {
   return (
     <>
       <Home></Home>
-      <Contact></Contact>
-      <About></About>
     </>
   );
 }
